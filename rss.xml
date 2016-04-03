@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Rick Stevens Entertainment]]></title>
         <description><![CDATA[Rick Stevens Entertainment]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rickstevensentertainment/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 22:19:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Apr 2016 22:20:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rickstevensentertainment/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>"Farts is Farts." Thomas Edison</p>]]></description>
+            <link>https://thegrid.ai/rickstevensentertainment/farts-is-farts-thomas-edison/index.html</link>
+            <guid isPermaLink="false">96f3c188-2bf1-4ce9-86bb-eaf3f0bf59d2</guid>
+            <pubDate>Sun, 03 Apr 2016 22:20:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Poopies</p>]]></description>
-            <link>undefinedpoopies/index.html</link>
+            <link>https://thegrid.ai/rickstevensentertainment/poopies/index.html</link>
             <guid isPermaLink="false">7fe7f000-d111-4a31-8c51-f718a9d4d17e</guid>
             <pubDate>Sun, 03 Apr 2016 22:19:25 GMT</pubDate>
         </item>
