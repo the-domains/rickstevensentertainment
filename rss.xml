@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Rick Stevens Entertainment]]></title>
         <description><![CDATA[Rick Stevens Entertainment]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rickstevensentertainment/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 21:59:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Apr 2016 22:10:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rickstevensentertainment/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f71cbd7-bdf0-4609-895d-cd88aac44da7.jpg">]]></description>
-            <link>undefinedddb62731-16d6-452a-8b03-79d48c90e69f/index.html</link>
+            <link>https://thegrid.ai/rickstevensentertainment/ddb62731-16d6-452a-8b03-79d48c90e69f/index.html</link>
             <guid isPermaLink="false">ddb62731-16d6-452a-8b03-79d48c90e69f</guid>
-            <pubDate>Sun, 03 Apr 2016 21:58:29 GMT</pubDate>
+            <pubDate>Sun, 03 Apr 2016 22:10:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
