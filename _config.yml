@@ -22,7 +22,7 @@ color:
     - '#b8d1bb'
     - '#c67e65'
     - '#c0542e'
-  brandStrength: 0
+  brandStrength: 0.875
   lightness: 1
   saturation: 1
   rhythmicContrast: 0
