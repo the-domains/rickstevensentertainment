@@ -4,8 +4,15 @@
         <description><![CDATA[Rick Stevens Entertainment]]></description>
         <link>https://thegrid.ai/rickstevensentertainment/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 23:58:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 00:02:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rickstevensentertainment/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85752cf6-4735-4607-bc87-399098823b0b.jpg">]]></description>
+            <link>https://thegrid.ai/rickstevensentertainment/63adb86b-1b6e-4df7-9070-3ac4d52249b0/index.html</link>
+            <guid isPermaLink="false">63adb86b-1b6e-4df7-9070-3ac4d52249b0</guid>
+            <pubDate>Mon, 22 Aug 2016 00:02:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fart Dome]]></title>
             <description><![CDATA[<article><h1>Fart Dome</h1><p>The Fart Dome was one of Edison’s forgotten inventions. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/16b44ab3-2a1f-4ca5-9f09-2ea0a855a17f.png"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/rickstevensentertainment/at-rick-stevens-entertainmentwe-like-to-show-fish-and-make-t/index.html</link>
             <guid isPermaLink="false">d9812e86-97ef-4365-b69b-ec14e48e589b</guid>
             <pubDate>Sun, 21 Aug 2016 23:50:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85752cf6-4735-4607-bc87-399098823b0b.jpg">]]></description>
-            <link>https://thegrid.ai/rickstevensentertainment/63adb86b-1b6e-4df7-9070-3ac4d52249b0/index.html</link>
-            <guid isPermaLink="false">63adb86b-1b6e-4df7-9070-3ac4d52249b0</guid>
-            <pubDate>Sun, 03 Apr 2016 23:06:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
