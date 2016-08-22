@@ -1,20 +1,4 @@
-name: Rick Stevens Entertainment
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.64447
-title: Rick Stevens Entertainment
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#1f0010'
@@ -26,4 +10,20 @@ color:
   lightness: 1
   saturation: 1
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Rick Stevens Entertainment
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Rick Stevens Entertainment
 purpose: []
