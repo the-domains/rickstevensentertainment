@@ -4,8 +4,15 @@
         <description><![CDATA[Rick Stevens Entertainment]]></description>
         <link>https://thegrid.ai/rickstevensentertainment/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 23:50:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 23:51:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rickstevensentertainment/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Diarheas.</p>]]></description>
+            <link>https://thegrid.ai/rickstevensentertainment/poopies/index.html</link>
+            <guid isPermaLink="false">7fe7f000-d111-4a31-8c51-f718a9d4d17e</guid>
+            <pubDate>Sun, 21 Aug 2016 23:51:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Look at my stems fish.]]></title>
             <description><![CDATA[<article><h1>Look at my stems fish.</h1><p>At Rick Stevens Entertainment we task ourselves to catch fish and show them how great legs are.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f2ef7c7a35eb1b47efc5c15c7eeb2b8245425cc.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/rickstevensentertainment/69cf8874-cba5-4720-803e-c7ddeb650284/index.html</link>
             <guid isPermaLink="false">69cf8874-cba5-4720-803e-c7ddeb650284</guid>
             <pubDate>Sun, 03 Apr 2016 23:02:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Poopies</p>]]></description>
-            <link>https://thegrid.ai/rickstevensentertainment/poopies/index.html</link>
-            <guid isPermaLink="false">7fe7f000-d111-4a31-8c51-f718a9d4d17e</guid>
-            <pubDate>Sun, 03 Apr 2016 22:19:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
